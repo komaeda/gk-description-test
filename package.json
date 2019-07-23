@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/komaeda/gk-description-test#readme",
   "dependencies": {
-    "my-very-cool-dependency": "^1.0.0"
+    "my-very-cool-dependency": "^2.0.0"
   }
 }
